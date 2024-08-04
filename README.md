@@ -2,7 +2,7 @@
 
 # Spider-man :: Miles Morales
 
-Project developed during **#FrontWeek**. Starting from the creation of UI Design in Figma, development of the entire page structure with HTML, Sass and JS and applying SVG animation concepts and transitions with the GSPAP library.
+Project developed during **#FrontWeek**.Starting from the creation of UI Design in Figma, development of the entire page structure with HTML, Sass and JS and applying SVG animation concepts and transitions with the GSPAP library.
 
 ##Tools used:
 
