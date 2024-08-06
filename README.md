@@ -12,4 +12,4 @@ Project developed during **#FrontWeek**.Starting from the creation of UI Design 
 **Credits:** #ProjectNY | <a target="_blank" href="https://www.nyousefali.com.br">Násser Yousef</a>
 
 <br></br>
-*&copy; Diego Campos, known as Digpos*
+*&copy; Diego Campos, known as Digpos *
